@@ -5,7 +5,7 @@ public class Color {
 
 
         String[] colors = {"red" ,"blue" ,"green" , "yellow"};
-
+        System.out.println("My colors");
 
 
     }
